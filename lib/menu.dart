@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
 
-  final String npm = '2306207543';
-  final String name = 'Evelyn Depthios';
+  final String npm = '2306245655';
+  final String name = 'Shintia Dharma Shanty';
   final String className = 'PBP F';
 
   final List<ItemHomepage> items = [
